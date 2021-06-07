@@ -1,52 +1,34 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: " "
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Why you should use our services?
+subheading: " "
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: What up4box.cloud offer?
+  description: Upgrade your existing account through referrals, each referral adds
+    500 MB to your account and you can get up to 16GB (initial 2GB + 16GB bonus
+    = Total 18GB).
+description: " "
 intro:
   blurbs:
-    - image: /img/dropbox-16gb-extra-storage.png
-      text: Referrals can get you a maximum of 16 GB of extra Dropbox storage. In case
-        you've already referred some friends, our service will fill up your
-        extra storage to the 16 GB limit.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/extra-storage-16gb.png
+      text: "Our service will fill up your extra storage 16 GB by referrals to a
+        maximum of 18 GB of extra Dropbox storage. "
+    - image: /img/privacy.png
+      text: We ask NO email, NO password, NO personal information of you. Only referal
+        link is required.
+    - image: /img/lifetime-storage.png
+      text: Extra storage provided by us will valid forever. You just pay one-time fee
+        to upgrade to 18GB
+    - image: /img/2-hours-delivery.png
+      text: We believe that good service come with fast delivery. NO MORE waiting for
+        days, weeks to fill up your Dropbox storage. Your Dropbox should have
+        18GB storage in 2 hours.
+  heading: What up4box.cloud offer?
+  description: Upgrade your existing account through referrals, each referral adds
+    500 MB to your account and you can get up to 16GB (initial 2GB + 16GB bonus
+    = Total 18GB).
 main:
   heading: Great coffee with no compromises
   description: >
